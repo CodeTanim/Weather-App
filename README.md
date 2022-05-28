@@ -18,3 +18,5 @@ After the user enters the name of a valid city/state from anywhere around the wo
 
 # Example Runs
 
+![](https://recordit.co/hCpMGBG2l4)
+
