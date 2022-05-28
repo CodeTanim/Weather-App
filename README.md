@@ -17,7 +17,11 @@ After the user enters the name of a valid city/state from anywhere around the wo
 9) The wind speed in the area
 
 # Example Runs
-<a href="url"><img src="http://url.to/image.png](http://g.recordit.co/hCpMGBG2l4.gif" align="left" height="48" width="48" ></a>
+
+
+<img src="http://g.recordit.co/hCpMGBG2l4.gif" width="48">
+
+
 ![](http://g.recordit.co/hCpMGBG2l4.gif)
 
 
