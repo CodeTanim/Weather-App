@@ -19,7 +19,7 @@ After the user enters the name of a valid city/state from anywhere around the wo
 # Example Runs
 
 
-<img src="http://g.recordit.co/hCpMGBG2l4.gif" width="200" align = "center">
+<img src="http://g.recordit.co/hCpMGBG2l4.gif" align = "center" width="200" >
 
 
 
