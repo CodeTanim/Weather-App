@@ -18,7 +18,7 @@ After the user enters the name of a valid city/state from anywhere around the wo
 
 # Example Runs
 
-![](http://g.recordit.co/hCpMGBG2l4.gif | =250x250)
+![](http://g.recordit.co/hCpMGBG2l4.gif)
 
 
 # How it Works
