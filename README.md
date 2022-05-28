@@ -5,7 +5,6 @@ for that location from the [Open Weather API](https://openweathermap.org/) and d
 # Features supported
 
 After the user enters the name of a valid city/state from anywhere around the world and then clicks the button, the following information will be displayed onto the screen:
-<p align="right"> <img src="http://g.recordit.co/hCpMGBG2l4.gif" width="200" > </p>  
 1) The name of the city
 2) The initials of the country the city is located in
 3) The temperature in degrees farhenheight 
@@ -19,7 +18,7 @@ After the user enters the name of a valid city/state from anywhere around the wo
 # Example Runs
 
 
-<p align="center"> <img src="http://g.recordit.co/hCpMGBG2l4.gif" width="200" > </p>  
+<p align="left"> <img src="http://g.recordit.co/hCpMGBG2l4.gif" width="200" > </p>  
 
 
 
