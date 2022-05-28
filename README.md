@@ -30,3 +30,6 @@ To display the icon, the icon code (e.g. "01d") was parsed and put into a url li
 Then the picasso library was used to extract the icon from this url and display it into an imageView object. 
 
 
+# Additional Features
+
+Some additional features I wanted to implement was displaying all of the information available from the open weather api, some of which include the timezone of the location, the sunrise/sunset time, the min/max temperature, etc. The main additional feature I wanted to implement was a dynamic background that would change depending on the description of the weather. I also wanted this background to be stylized to a 16-bit retro theme just so it could be a bit more unique than other weather applications. However, due to time constraints and other responsibilities I haven’t been able to accomplish that. I did see that android studio doesn’t support gif animations as backgrounds, but there are several viable workarounds which is something I am looking to explore in the feature.
