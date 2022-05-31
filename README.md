@@ -23,9 +23,6 @@ https://user-images.githubusercontent.com/80434026/171080356-98cc2f67-0e77-407b-
 
 
 
-<p align="left"> <img src="http://g.recordit.co/hCpMGBG2l4.gif" width="200" > </p>  
-
-
 
 # How it Works
 
