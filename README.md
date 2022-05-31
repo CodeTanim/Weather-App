@@ -18,6 +18,11 @@ After the user enters the name of a valid city/state from anywhere around the wo
 # Example Runs
 
 
+https://user-images.githubusercontent.com/80434026/171080356-98cc2f67-0e77-407b-9c37-6733525dabe7.mp4
+
+
+
+
 <p align="left"> <img src="http://g.recordit.co/hCpMGBG2l4.gif" width="200" > </p>  
 
 
