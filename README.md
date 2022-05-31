@@ -18,12 +18,15 @@ After the user enters the name of a valid city/state from anywhere around the wo
 # Example Runs
 
 
-https://user-images.githubusercontent.com/80434026/171080356-98cc2f67-0e77-407b-9c37-6733525dabe7.mp4
+
+
+
+https://user-images.githubusercontent.com/80434026/171082778-9da1da93-40fd-4c4d-8922-a8a11edc7f58.mp4
 
 
 
 
-https://user-images.githubusercontent.com/80434026/171081546-ef6319b4-3abe-4c06-9a87-b33abbf9f696.mp4
+
 
 
 
